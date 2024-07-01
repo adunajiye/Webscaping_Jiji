@@ -19,15 +19,10 @@ The next verson will be scaled to scrape other products.
 
 <div>
 
-  ***Author:***  [**Adesanmi D. PraiseGod**](https://github.com/praisegee)
+  ***Author:***  [**Ajiye Adunoluwa**](https://github.com/adunajiye)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/praisegod/"><img src="https://img.shields.io/badge/-PraiseGod%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dayopraisegod@gmail.com"><img src="https://img.shields.io/badge/-dayopraisegod@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/adesanmidayopraisegod/"><img src="https://img.shields.io/badge/-@adesanmidayopraisegod-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/adesanmi.dayoprasegod/"><img src="https://img.shields.io/badge/-@adesanmi.dayoprasegod-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+
 
 </div>
